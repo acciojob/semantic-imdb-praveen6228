@@ -1,2 +1,21 @@
-
+body {
+  background-color: aquamarine;
+  color: black;
+}
+h1 {
+  color: red;
+  font-weight: solid;
+}
+h3 {
+  color: forestgreen;
+  font-weight: solid;
+}
+aside p {
+  color: green;
+  font-weight: solid;
+}
+footer p {
+  color: green;
+  font-weight: solid;
+}
 /* Your CSS Code here. */
